@@ -1,0 +1,9 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "python.autoComplete.addBrackets": true,
+    "python.pythonPath": "C:\\Users\\jello\\AppData\\Local\\Programs\\Python\\Python37\\python.exe"
+}
